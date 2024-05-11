@@ -31,6 +31,11 @@ a:hover{
   background-color: #212121 !important;
   color: white !important;
 }
+.more:active{
+  box-shadow: 0 0 10px #9b9b9b;
+  background-color: #212121 !important;
+  color: white !important;
+}
 .banner{
   height: 504px;
   width: 100%;
