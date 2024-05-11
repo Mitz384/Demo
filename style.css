@@ -1,0 +1,37 @@
+
+body{
+  font-family: "Poppins", sans-serif;
+}
+ul{
+  list-style-type: none;
+}
+.ff-RacingSansOne{
+  font-family: "Racing Sans One", sans-serif;
+}
+.fs-10px{
+  font-size: 10px;
+}
+.fs-14px{
+  font-size: 14px;
+}
+.fs-20px{
+  font-size: 20px;
+}
+a{
+  cursor: pointer;
+}
+a:hover{
+  text-decoration: underline !important ;
+}
+.card:hover{
+  box-shadow: 0 0 10px #21212162;
+}
+.more:hover{
+  box-shadow: 0 0 10px #9b9b9b;
+  background-color: #212121 !important;
+  color: white;
+}
+.banner{
+  height: 504px;
+  width: 100%;
+}
