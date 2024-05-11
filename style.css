@@ -26,12 +26,8 @@ a:hover{
 .card:hover{
   box-shadow: 0 0 10px #21212162;
 }
-.more:hover{
-  box-shadow: 0 0 10px #9b9b9b;
-  background-color: #212121 !important;
-  color: white !important;
-}
-.more:active{
+
+.more.active{
   box-shadow: 0 0 10px #9b9b9b;
   background-color: #212121 !important;
   color: white !important;
